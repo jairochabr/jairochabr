@@ -50,6 +50,30 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Aqui estão alguns dos meus principais projetos:
 
+  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
+<details>
+  <summary>📌 Nome do Projeto 1</summary>
+  <br>
+  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
+  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
+</details>
+
+  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
+<details>
+  <summary>📌 Nome do Projeto 1</summary>
+  <br>
+  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
+  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
+</details>
+
+<details>
+  <summary>📌 Nome do Projeto 1</summary>
+  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
+  <br>
+  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
+  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
+</details>
+
 ### [Nome do Projeto 1](URL_DO_PROJETO_1)
 Descrição breve do projeto 1.
 
@@ -71,7 +95,7 @@ Você pode me encontrar nas redes sociais:
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jairochabr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -80,4 +104,4 @@ Você pode me encontrar nas redes sociais:
 
 ---
 
-*Obrigado pela visita! Fique à vontade para explorar meus repositórios e entrar em contato.*
+<p align="center">*Obrigado pela visita! Fique à vontade para explorar meus repositórios e entrar em contato.*</p>
