@@ -64,11 +64,8 @@ Aqui estão alguns dos meus principais projetos:
 [![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
 [![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
 
-
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
+⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
+<br>
 
 <!-- ### [Nome do Projeto 1](URL_DO_PROJETO_1)
 Descrição breve do projeto 1.
