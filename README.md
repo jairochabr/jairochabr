@@ -57,8 +57,13 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 Aqui estão alguns dos meus principais projetos:
 
 
-[![actually it was a logic error that destroyed 8,513,869 computers](https://ytcards.demolab.com/?id=VpZno4TF8MU&title=actually+it+was+a+logic+error+that+destroyed+8%2C513%2C869+computers&lang=en&timestamp=1721772015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288 "actually it was a logic error that destroyed 8,513,869 computers")](https://brainwave-web.netlify.app/)
-[![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=x-uTUF7XdaQ&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://explore-wb.netlify.app/)
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
+
 
 
 
