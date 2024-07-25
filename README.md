@@ -1,7 +1,5 @@
 # Olá, eu sou Jairo Rocha 👋
 
-![Banner](https://media.licdn.com/dms/image/D5616AQEg2mq-qVYfsA/profile-displaybackgroundimage-shrink_350_1400/0/1701874262140?e=1727308800&v=beta&t=l9ZHJFRt48L7_tl0SFZg63IYJ9iBuwA4DDGr9Znjqgw)
-
 ## Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas tecnologias e aplicá-las em projetos criativos. 
