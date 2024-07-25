@@ -1,4 +1,6 @@
-# Olá, eu sou Jairo Rocha 👋
+<!-- # Olá, eu sou Jairo Rocha 👋 -->
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&left=true&vCenter=true&repeat=false&random=false&width=435&lines=Olá,+eu+sou+Jairo+Rocha+👋.)](https://git.io/typing-svg)  
 
 ## Sobre mim
 
@@ -8,7 +10,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 - 💼 Trabalhando na: [Sua empresa ou projeto atual]
 - 🎓 Formação: [Sua formação acadêmica]
 
-## 🛠 Tecnologias e Ferramentas
+<! -- ## 🛠 Tecnologias e Ferramentas -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e Ferramentas</b>
+<br>
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
@@ -50,39 +54,26 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Aqui estão alguns dos meus principais projetos:
 
-  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
-<details>
-  <summary>📌 Nome do Projeto 1</summary>
-  <br>
-  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
-  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
-</details>
-
-  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
-<details>
-  <summary>📌 Nome do Projeto 1</summary>
-  <br>
-  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
-  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
-</details>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![actually it was a logic error that destroyed 8,513,869 computers](https://ytcards.demolab.com/?id=VpZno4TF8MU&title=actually+it+was+a+logic+error+that+destroyed+8%2C513%2C869+computers&lang=en&timestamp=1721772015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288 "actually it was a logic error that destroyed 8,513,869 computers")](https://www.youtube.com/watch?v=VpZno4TF8MU)
+[![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=x-uTUF7XdaQ&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://www.youtube.com/watch?v=x-uTUF7XdaQ)
+[![How to Make a Flowchart and Class Diagram (as a software developer) ft. Mermaid Chart](https://ytcards.demolab.com/?id=SOHJHgLC2Pg&title=How+to+Make+a+Flowchart+and+Class+Diagram+%28as+a+software+developer%29+ft.+Mermaid+Chart&lang=en&timestamp=1721138421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488 "How to Make a Flowchart and Class Diagram (as a software developer) ft. Mermaid Chart")](https://www.youtube.com/watch?v=SOHJHgLC2Pg)
+[![building a crappy website on purpose](https://ytcards.demolab.com/?id=sK4g4xXOuyc&title=building+a+crappy+website+on+purpose&lang=en&timestamp=1720711528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4600 "building a crappy website on purpose")](https://www.youtube.com/watch?v=sK4g4xXOuyc)
+[![Help me make a crappy website.](https://ytcards.demolab.com/?id=kDCoeWVNEF0&title=Help+me+make+a+crappy+website.&lang=en&timestamp=1720632692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5582 "Help me make a crappy website.")](https://www.youtube.com/watch?v=kDCoeWVNEF0)
+[![Rebuilding my first ever "artificial intelligence" program... 7 years later](https://ytcards.demolab.com/?id=Wg16BOslJGk&title=Rebuilding+my+first+ever+%22artificial+intelligence%22+program...+7+years+later&lang=en&timestamp=1720017013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=694 "Rebuilding my first ever \"artificial intelligence\" program... 7 years later")](https://www.youtube.com/watch?v=Wg16BOslJGk)
 
 
-<details>
-  <summary>📌 Nome do Projeto 1</summary>
-  <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
-  <br>
-  <p>Descrição breve do projeto 1. Descrição breve do projeto 1. Descrição breve do projeto 1.</p>
-  <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
-</details>
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-### [Nome do Projeto 1](URL_DO_PROJETO_1)
+
+<!-- ### [Nome do Projeto 1](URL_DO_PROJETO_1)
 Descrição breve do projeto 1.
 
 ### [Nome do Projeto 2](URL_DO_PROJETO_2)
 Descrição breve do projeto 2.
 
 ### [Nome do Projeto 3](URL_DO_PROJETO_3)
-Descrição breve do projeto 3.
+Descrição breve do projeto 3. -->
 
 ## 🌐 Redes Sociais
 
@@ -96,7 +87,8 @@ Você pode me encontrar nas redes sociais:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jairochabr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
