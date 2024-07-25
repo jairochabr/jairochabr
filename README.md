@@ -2,7 +2,7 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=42C3B4&background=9D56FF00&left=true&vCenter=true&repeat=false&random=false&width=435&lines=Olá,+eu+sou+Jairo+Rocha+👋.)](https://git.io/typing-svg)  
 
-**`Full Stack Developer`**
+### `Full Stack Developer`
 
 ## Sobre mim
 
