@@ -56,25 +56,16 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Aqui estão alguns dos meus principais projetos:
 
-
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-[![Brainwave feito com react](./img/brainwave.png "brainwave")](https://brainwave-web.netlify.app/);
-
-⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
-<br>
-
-<!-- ### [Nome do Projeto 1](URL_DO_PROJETO_1)
+### [Nome do Projeto 1](URL_DO_PROJETO_1)
 Descrição breve do projeto 1.
 
 ### [Nome do Projeto 2](URL_DO_PROJETO_2)
 Descrição breve do projeto 2.
 
 ### [Nome do Projeto 3](URL_DO_PROJETO_3)
-Descrição breve do projeto 3. -->
+Descrição breve do projeto 3.
+
+⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
 
 ## 🌐 Redes Sociais
 
