@@ -66,6 +66,7 @@ Aqui estão alguns dos meus principais projetos:
   <p>🔗 <a href="URL_DO_PROJETO_1">Veja o projeto</a></p>
 </details>
 
+
 <details>
   <summary>📌 Nome do Projeto 1</summary>
   <img src="https://th.bing.com/th/id/OIP.xNhEyMUeSnDf0v8uFYRY5QAAAA?w=276&h=167&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Nome do Projeto 1" width="200">
