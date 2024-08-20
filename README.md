@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas tecnologias e aplicá-las em projetos criativos. 
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas tecnologias e aplicá-las em meus projetos. 
 
 - 🌱 Atualmente estou aprendendo: [Tecnologia que você está aprendendo]
 - 💼 Trabalhando na: [Sua empresa ou projeto atual]
