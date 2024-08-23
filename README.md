@@ -53,6 +53,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ## 📂 Projetos
 
 Aqui estão alguns dos meus principais projetos:
+<img src="./img/..." />
 
 ### [Brainwave-website-react](https://github.com/jairochabr/Brainwave-website-react)
 Descrição breve do projeto 1.
