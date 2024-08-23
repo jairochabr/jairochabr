@@ -54,7 +54,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Aqui estão alguns dos meus principais projetos:
 
-### [Nome do Projeto 1](URL_DO_PROJETO_1)
+### [Brainwave-website-react](https://github.com/jairochabr/Brainwave-website-react)
 Descrição breve do projeto 1.
 
 ### [Nome do Projeto 2](URL_DO_PROJETO_2)
