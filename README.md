@@ -57,11 +57,11 @@ Aqui estão alguns dos meus principais projetos:
 ### [Brainwave-website-react](https://github.com/jairochabr/Brainwave-website-react)
 Descrição breve do projeto 1.
 
-### [Nome do Projeto 2](URL_DO_PROJETO_2)
-Descrição breve do projeto 2.
+### [lp-explore](https://github.com/jairochabr/lp-explore)
+landing page desenvolvido com HTML, CSS e JavaScript.
 
-### [Nome do Projeto 3](URL_DO_PROJETO_3)
-Descrição breve do projeto 3.
+### [nlw-unite-react](https://github.com/jairochabr/nlw-unite-react)
+Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat.
 
 ⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
 
