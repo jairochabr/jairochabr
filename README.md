@@ -69,10 +69,22 @@ Descrição breve do projeto 3.
 
 Você pode me encontrar nas redes sociais:
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div> -->
+
+<div align="left">
+  <!-- <a href="" target="_blank">
+    <img src="" alt="" />
+  </a> -->
+  <a href="https://www.instagram.com/jairochabr/" target="_blank">
+    <img src="https://camo.githubusercontent.com/ad03e07a9fe0c6a6ed1aac0ea88cf92bedb013a2c9aaab866fba66617e99bed1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d496e7374616772616d266c6f676f3d696e7374616772616d266c6162656c3d26636f6c6f723d453434303546266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="" />
+  </a>
+  <a href="https://www.linkedin.com/in/jairochabr/" target="_blank">
+    <img src="https://camo.githubusercontent.com/59243a733d40bfccc7b3a0abf4f9b167cb25fa22378ce39b1fa4815188cba506/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="" />
+  </a>
 </div>
 
 ---
