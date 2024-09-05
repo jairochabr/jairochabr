@@ -7,8 +7,8 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas tecnologias e aplicá-las em meus projetos. 
 
 - 🌱 Atualmente estou aprendendo: Next.js e Python.
-<!-- 💼 Trabalhando na: [Sua empresa ou projeto atual] -->
 - 🎓 Formação: Ciência da Computação em andamento.
+<!-- 💼 Trabalhando na: [Sua empresa ou projeto atual] -->
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tecnologias e Ferramentas</b>
