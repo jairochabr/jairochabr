@@ -43,10 +43,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 Aqui estão alguns dos meus principais projetos:
 
 ### [Brainwave-website-react](https://github.com/jairochabr/Brainwave-website-react)
-Descrição breve do projeto 1.
+Landing page desenvolvido com React.js
 
 ### [lp-explore](https://github.com/jairochabr/lp-explore)
-landing page desenvolvido com HTML, CSS e JavaScript.
+Landing page desenvolvido com HTML, CSS e JavaScript.
 
 ### [nlw-unite-react](https://github.com/jairochabr/nlw-unite-react)
 Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat.
