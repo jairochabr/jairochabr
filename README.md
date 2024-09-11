@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=42C3B4&background=9D56FF00&left=true&vCenter=true&repeat=false&random=false&width=435&lines=Olá,+eu+sou+Jairo+Rocha+👋.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=42C3B4&background=9D56FF00&left=true&vCenter=true&repeat=false&random=false&width=435&lines=Olá,+eu+sou+Jairo+Rocha)](https://git.io/typing-svg)
 
 ### `Full Stack Developer`
 
