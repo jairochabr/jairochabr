@@ -6,7 +6,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas tecnologias e aplicá-las em meus projetos. 
 
-- 🌱 Atualmente estou aprendendo: Next.js e Python.
+- 🌱 Atualmente estou aprendendo: Next.js.
 - 🎓 Formação: Ciência da Computação em andamento.
 <!-- 💼 Trabalhando na: [Sua empresa ou projeto atual] -->
 
@@ -26,8 +26,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
   <img width="12" />
