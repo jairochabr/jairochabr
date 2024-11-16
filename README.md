@@ -37,17 +37,17 @@ const jairo = {
   
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| 🏢 SGP | `Laravel` `Vue.js` `PostgreSQL` | Sistema de Gestão Patrimonial completo com controle de ativos e depreciação |
-| 🚗 Controle de Frota | `Node.js` `React` `MongoDB` | Gerenciamento avançado de frotas com tracking em tempo real |
-| ⛽ Gestão de Combustível | `Python` `Django` `React` | Sistema inteligente de controle de abastecimento com análises preditivas |
+| 🧠 BRAINWAVE | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React |
+| 🧩 Svg to React | `Typescript` `Node.js` `vscode` | Extensão que transforma SVGs em componentes React com uma simples renomeação de arquivo |
+| ✨ Nlw Unite React | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat |
 
 </div>
 
 ## 🌐 Conexões
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-chabaribery/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairochabr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairochabr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jairochabr.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]('#')
 
 ## 📊 GitHub Stats
 
@@ -66,12 +66,12 @@ const jairo = {
 
 </div>
 
-## 🎯 Metas 2024
+## 🎯 Metas 2025
 
 - [ ] Contribuir mais para projetos open source
-- [ ] Aprender novas tecnologias (Rust, Go)
-- [ ] Desenvolver um projeto utilizando IA
-- [ ] Compartilhar mais conhecimento através de artigos
+- [ ] Aprender novas tecnologias (Docker, Go)
+- [ ] Desenvolver projetos utilizando IA
+- [ ] Compartilhar conhecimentos através de artigos
 
 
 
