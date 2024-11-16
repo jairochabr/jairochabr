@@ -9,14 +9,12 @@
 🎯 Desenvolvedor apaixonado por criar soluções que impactam positivamente a vida das pessoas  
 🌱 Sempre em busca de novos desafios e aprendizados  
 💡 Focado em inovação e boas práticas de desenvolvimento  
-🎮 Gamer nas horas vagas  
-☕ Movido a café e códigos
 
 ```javascript
 const jairo = {
     localização: "Brasil 🇧🇷",
     atualmente: "Desenvolvedor Full Stack",
-    foco: ["Web Development", "Mobile Apps", "Cloud Solutions"],
+    foco: ["Web Development", "Mobile Apps",],
     hobbies: ["Coding", "Tech News", "Gaming", "Coffee ☕"],
     desafioAtual: "Aprimorando conhecimentos em Arquitetura de Software",
     mensagem: function() {
@@ -32,6 +30,24 @@ const jairo = {
 ![](https://skillicons.dev/icons?i=js,html,css,php,python,react,vue,nodejs,laravel,aws,docker,git)
 
 </div>
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+  
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| 🏢 SGP | `Laravel` `Vue.js` `PostgreSQL` | Sistema de Gestão Patrimonial completo com controle de ativos e depreciação |
+| 🚗 Controle de Frota | `Node.js` `React` `MongoDB` | Gerenciamento avançado de frotas com tracking em tempo real |
+| ⛽ Gestão de Combustível | `Python` `Django` `React` | Sistema inteligente de controle de abastecimento com análises preditivas |
+
+</div>
+
+## 🌐 Conexões
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-chabaribery/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairochabr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jairochabr.github.io/)
 
 ## 📊 GitHub Stats
 
@@ -50,30 +66,6 @@ const jairo = {
 
 </div>
 
-## 🏆 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Tecnologias | Status |
-|---------|-------------|---------|
-| 📊 **SGP - Sistema de Gestão Patrimonial** | `Laravel` `Vue.js` `MySQL` | [![Status](https://img.shields.io/badge/Status-Produção-success)](#) |
-| 🚗 **Controle de Frota** | `PHP` `React` `PostgreSQL` | [![Status](https://img.shields.io/badge/Status-Produção-success)](#) |
-| ⛽ **Gestão de Combustível** | `Node.js` `React` `MongoDB` | [![Status](https://img.shields.io/badge/Status-Desenvolvimento-yellow)](#) |
-
-</div>
-
-## 🎯 Projetos em Destaque
-
-<div align="center">
-  
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🏢 SGP | `Laravel` `Vue.js` `PostgreSQL` | Sistema de Gestão Patrimonial completo com controle de ativos e depreciação |
-| 🚗 Controle de Frota | `Node.js` `React` `MongoDB` | Gerenciamento avançado de frotas com tracking em tempo real |
-| ⛽ Gestão de Combustível | `Python` `Django` `React` | Sistema inteligente de controle de abastecimento com análises preditivas |
-
-</div>
-
 ## 🎯 Metas 2024
 
 - [ ] Contribuir mais para projetos open source
@@ -81,35 +73,5 @@ const jairo = {
 - [ ] Desenvolver um projeto utilizando IA
 - [ ] Compartilhar mais conhecimento através de artigos
 
-
-## 🌐 Conexões
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-chabaribery/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairochabr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jairochabr.github.io/)
-
-## 🎯 Conquistas
-<div align="center">
-
-```ascii
-🏆 Principais Realizações:
-┌──────────────────────────────┐
-│  🌟 +1000 Contribuições     │
-│  🎉 5 Projetos Destacados   │
-│  💡 3 Open Source Projects  │
-└──────────────────────────────┘
-```
-</div>
-
-
-<div align="center">
-  
-### 💭 Pensamento do Dia
-
-> "O código que você escreve faz mais do que funcionar - ele conta uma história."
-
-⭐️ From [jairochabr](https://github.com/jairochabr) with ❤️
-  
-</div>
 
 
