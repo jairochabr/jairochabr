@@ -36,8 +36,6 @@ const jairo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="Contribuições GitHub" />
 
 <table>
   <tr>
@@ -139,58 +137,4 @@ const jairo = {
 </div>
 
 ---
-
-## 🎯 Conquistas
-
-<div align="center">
-
-```ascii
-🏆 Principais Realizações:
-┌──────────────────────────────┐
-│  🌟 +1000 Contribuições     │
-│  🎉 5 Projetos Destacados   │
-│  💡 3 Open Source Projects  │
-└──────────────────────────────┘
-```
-
-</div>
-
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jairochabr/sgp">
-        <img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="SGP Preview"/>
-        <br />
-        <sub><b>📊 SGP</b></sub>
-      </a>
-      <br />
-      <sub>Sistema de Gestão Patrimonial</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jairochabr/frota">
-        <img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="Controle de Frota Preview"/>
-        <br />
-        <sub><b>🚗 Controle de Frota</b></sub>
-      </a>
-      <br />
-      <sub>Gerenciamento de Frotas</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jairochabr/combustivel">
-        <img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="Gestão de Combustível Preview"/>
-        <br />
-        <sub><b>⛽ Gestão de Combustível</b></sub>
-      </a>
-      <br />
-      <sub>Controle de Abastecimento</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
