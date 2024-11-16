@@ -35,11 +35,11 @@ const jairo = {
 
 <div align="center">
   
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🧠 BRAINWAVE | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React |
-| 🧩 Svg to React | `Typescript` `Node.js` `vscode` | Extensão que transforma SVGs em componentes React com uma simples renomeação de arquivo |
-| ✨ Nlw Unite React | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat |
+| Projeto | Tecnologias | Descrição | Link |
+|---------|-------------|-----------|------|
+| 🧠 BRAINWAVE | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React | [link](https://github.com/jairochabr/svg-to-react) |
+| 🧩 Svg to React | `Typescript` `Node.js` `vscode` | Extensão que transforma SVGs em componentes React com uma simples renomeação de arquivo | [link](https://github.com/jairochabr/svg-to-react) |
+| ✨ Nlw Unite React | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat | [link](https://github.com/jairochabr/svg-to-react) |
 
 </div>
 
