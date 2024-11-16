@@ -1,18 +1,4 @@
-```ascii
-   ________    ___    ___  ______     ____
-  / ____/ /   /   |  /   |/_  __/    / __ \
- / /   / /   / /| | / /| | / /      / / / /
-/ /___/ /___/ ___ |/ ___ |/ /      / /_/ / 
-\____/_____/_/  |_/_/  |_/_/       \____/  
-```
-
 # 👨‍💻 Jairo Rocha - Full Stack Developer
-
-### Desenvolvedor Full Stack & Entusiasta de Tecnologia 🚀
-
-<div align="center">
-  <img src="/api/placeholder/800/200" alt="Banner de tecnologia" />
-</div>
 
 ## 🚀 Navegação Rápida
 > [Sobre Mim](#-sobre-mim) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Projetos](#-projetos-em-destaque) • [Estatísticas](#-github-stats) • [Contato](#-vamos-conectar)
