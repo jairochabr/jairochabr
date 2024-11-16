@@ -88,13 +88,19 @@ const jairo = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairochabr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jairochabr.github.io/)
 
-## 📈 Contribuições
-
+## 🎯 Conquistas
 <div align="center">
-  <img src="/api/placeholder/800/120" alt="Gráfico de contribuições" />
+
+```ascii
+🏆 Principais Realizações:
+┌──────────────────────────────┐
+│  🌟 +1000 Contribuições     │
+│  🎉 5 Projetos Destacados   │
+│  💡 3 Open Source Projects  │
+└──────────────────────────────┘
+```
 </div>
 
----
 
 <div align="center">
   
@@ -106,35 +112,4 @@ const jairo = {
   
 </div>
 
-
-
-## ⚡ Frase do dia
-
-<div align="center">
-
-```
-"O código é como poesia - cada linha conta uma história."
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jairochabr&color=blueviolet" alt="Profile views"/>
-  
-  ### Deixe uma ⭐️ se você gostou de algum projeto!
-
-
-  ## 💡 Citação Favorita
-
-<div align="center">
-
-```ascii
-"O código é como poesia - cada linha tem seu propósito, cada função conta uma história."
-```
-
-</div>
-
----
 
