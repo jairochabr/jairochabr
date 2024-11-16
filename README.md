@@ -1,6 +1,6 @@
 # 👨‍💻 Jairo Rocha - Full Stack Developer
 
-> [Sobre Mim](#-sobre-mim) • [Tecnologia](#-tecnologia) • [Projetos](#-projetos-em-destaque) • [Contato](#-conexões) • [Estatísticas](#-github-stats) • [Metas](#-metas)
+> [Sobre Mim](#-sobre-mim) • [Tecnologia](#-tecnologia) • [Projetos](#-projetos-em-destaque) • [Conexões](#-conexões) • [Github Stats](#-github-stats) • [Metas](#-metas-2025)
 
 ## 🚀 Sobre Mim
 
@@ -26,11 +26,12 @@ const jairo = {
 
 ## 🛠️ Tecnologia
 
-<div align="center">
-
-![](https://skillicons.dev/icons?i=js,html,css,php,python,react,vue,nodejs,laravel,aws,docker,git)
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🏆 Projetos em Destaque
 
@@ -73,6 +74,3 @@ const jairo = {
 - [ ] Aprender novas tecnologias
 - [ ] Desenvolver projetos utilizando IA
 - [ ] Compartilhar conhecimentos através de artigos
-
-
-
