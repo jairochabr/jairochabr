@@ -1,16 +1,17 @@
 # 👨‍💻 Jairo Rocha - Full Stack Developer
 
-> [Sobre Mim](#-sobre-mim) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Projetos](#-projetos-em-destaque) • [Estatísticas](#-github-stats) • [Contato](#-vamos-conectar)
+> [Sobre Mim](#-sobre-mim) • [Tecnologia](#-tecnologia) • [Projetos](#-projetos-em-destaque) • [Contato](#-conexões) • [Estatísticas](#-github-stats) • [Metas](#-metas)
 
 ## 🚀 Sobre Mim
 
 > "Código é poesia em linguagem de máquina" 
 
-🎯 Desenvolvedor apaixonado por criar soluções que impactam positivamente a vida das pessoas  
+<!-- 🎯 Desenvolvedor apaixonado por criar soluções que impactam positivamente a vida das pessoas   -->
+🎯 Desenvolvedor apaixonado por criar soluções  
 🌱 Sempre em busca de novos desafios e aprendizados  
-💡 Focado em inovação e boas práticas de desenvolvimento  
+💡 Focado em inovação e boas práticas de desenvolvimento
 
-```javascript
+<!-- ```javascript
 const jairo = {
     localização: "Brasil 🇧🇷",
     atualmente: "Desenvolvedor Full Stack",
@@ -21,9 +22,9 @@ const jairo = {
         console.log("Transformando café em código desde sempre! ☕️ => 💻")
     }
 };
-```
+``` -->
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologia
 
 <div align="center">
 
@@ -37,9 +38,9 @@ const jairo = {
   
 | Projeto | Tecnologias | Descrição | Link |
 |---------|-------------|-----------|------|
-| 🧠 BRAINWAVE | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React | [link](https://github.com/jairochabr/svg-to-react) |
-| 🧩 Svg to React | `Typescript` `Node.js` `vscode` | Extensão que transforma SVGs em componentes React com uma simples renomeação de arquivo | [link](https://github.com/jairochabr/svg-to-react) |
-| ✨ Nlw Unite React | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat | [link](https://github.com/jairochabr/svg-to-react) |
+| 🧠 BRAINWAVE | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React | [Acessar](https://github.com/jairochabr/brainwave-react) |
+| 🧩 Svg to React | `Typescript` `Node.js` `vscode` | Extensão que transforma SVGs em componentes React com uma simples renomeação de arquivo | [Acessar](https://github.com/jairochabr/svg-to-react) |
+| ✨ Nlw Unite React | `React` `Typescript` `Tailwindcss` | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat | [Acessar](https://github.com/jairochabr/nlw-unite-react) |
 
 </div>
 
@@ -69,7 +70,7 @@ const jairo = {
 ## 🎯 Metas 2025
 
 - [ ] Contribuir mais para projetos open source
-- [ ] Aprender novas tecnologias (Docker, Go)
+- [ ] Aprender novas tecnologias
 - [ ] Desenvolver projetos utilizando IA
 - [ ] Compartilhar conhecimentos através de artigos
 
