@@ -1,11 +1,6 @@
 # 👨‍💻 Jairo Rocha - Full Stack Developer
 
-## 🚀 Navegação Rápida
 > [Sobre Mim](#-sobre-mim) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Projetos](#-projetos-em-destaque) • [Estatísticas](#-github-stats) • [Contato](#-vamos-conectar)
-
-## 🧑‍💻 Sobre mim
-
-Apaixonado por desenvolvimento de software e soluções tecnológicas inovadoras. Me dedico a criar aplicações que fazem a diferença na vida das pessoas, sempre buscando aprender e evoluir com cada projeto.
 
 ## 🚀 Sobre Mim
 
@@ -16,9 +11,6 @@ Apaixonado por desenvolvimento de software e soluções tecnológicas inovadoras
 💡 Focado em inovação e boas práticas de desenvolvimento  
 🎮 Gamer nas horas vagas  
 ☕ Movido a café e códigos
-
-
-## 👨‍💻 Sobre Mim
 
 ```javascript
 const jairo = {
@@ -41,24 +33,22 @@ const jairo = {
 
 </div>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairochabr&show_icons=true&theme=dracula)](https://github.com/jairochabr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairochabr&layout=compact&theme=dracula)](https://github.com/jairochabr)
-
-</div>
-
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jairochabr&theme=radical)](https://git.io/streak-stats)
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairochabr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairochabr&layout=compact&langs_count=7&theme=radical"/>
+<img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="Contribuições GitHub" />
+
+<table>
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jairochabr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairochabr&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -165,24 +155,6 @@ const jairo = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github.com/user-attachments/assets/b430049d-84f2-4fe9-abbf-4e16b0b158f3" alt="Contribuições GitHub" />
-
-<table>
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jairochabr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairochabr&layout=compact&langs_count=7&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 🌟 Projetos em Destaque
 
